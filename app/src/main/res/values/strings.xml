@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Movie App</string>
+    <string name="popular">Popular</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="description">Description</string>
+    <string name="release_date">Release date</string>
+    <string name="favorite_movie">Favorite Movie</string>
+    <string name="favorite_no_list">No favorite movie</string>
+</resources>
